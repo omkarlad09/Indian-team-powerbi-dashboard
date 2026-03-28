@@ -37,8 +37,8 @@ To analyze Indian cricket team data and generate meaningful insights using data 
 
 
 👨‍💻 Author
-
 **Omkar Lad**
+📊 Aspiring Data Analyst
 
-* Aspiring Data Analyst
-* Skilled in Power BI, Excel, Python
+🔗 GitHub: https://github.com/omkarlad09
+🔗 linkedin: www.linkedin.com/in/omkar-lad07
